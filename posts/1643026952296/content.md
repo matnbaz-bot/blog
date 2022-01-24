@@ -3,7 +3,7 @@ title: The Title of The First Post
 slug: first
 ---
 
-# h1 Heading
+# Changed h1 heading
 
 ## h2 Heading
 
@@ -70,9 +70,9 @@ Ordered
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
 3. Integer molestie lorem at massa
-
 4. You can use sequential numbers...
 5. ...or keep all the numbers as `1.`
+6. New item
 
 Start numbering with offset:
 
@@ -99,7 +99,7 @@ Sample text here...
 Syntax highlighting
 
 ```js
-var foo = function (bar) {
+const foo = function (bar) {
   return bar++;
 };
 
